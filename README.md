@@ -4,6 +4,13 @@ The thing(s) you like to have after a fresh stage3 install.
 
 # the things
 
+* github
+ * dwm
+ * st
+ * surf
+ * dmenu
+ * dmenu_translator
+ * etc.
 * xprofile
 * xinitrc
 * bashrc
@@ -12,4 +19,4 @@ The thing(s) you like to have after a fresh stage3 install.
   * htop
   * neofetch
   * dmenu_translater
-  * aliasrc
+  * aliasrc [excluded]
