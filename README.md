@@ -4,7 +4,7 @@ The thing(s) you like to have after a fresh stage3 install.
 
 # the things
 
-* github
+* github [excluded]
   * dwm
   * st
   * surf
